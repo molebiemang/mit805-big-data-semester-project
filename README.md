@@ -293,6 +293,8 @@ project/
 
 │ └── Table 1. Map-reduce Style Results Comparison.png
 
+│
+
 └── report/
 
 ├── MIT805_Part1_Report.pdf
