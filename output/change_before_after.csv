@@ -1,0 +1,4 @@
+area,trips_per_month,avg_speed_mph,avg_trip_miles,avg_fare,avg_driver_pay
+CBD,-4.88,4.76,2.02,7.74,3.54
+Outside CBD,2.48,0.09,-0.44,1.99,2.14
+CBD minus Outside,-7.35,4.67,2.47,5.75,1.39
