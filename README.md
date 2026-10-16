@@ -247,7 +247,7 @@ project/
 
 │ ├── mit805_grp13_part1.ipynb # Part 1: download, quality checks, cleaning, EDA
 
-│ └── mit805_grp13_part2.ipynb # Part 2: MapReduce analysis with PySpark
+│ ├── mit805_grp13_part2.ipynb # Part 2: MapReduce analysis with PySpark
 
 │ └── [old_dataset] MIT 805 Project.ipynb # Original Part 1 Dataset and EDA
 
@@ -271,7 +271,27 @@ project/
 
 ├── figures/ # charts from the notebooks and Spark UI screenshots
 
-│
+│ ├── Change from Jan–Apr 2024 to Jan–Apr 2025.png
+
+│ ├── Figure 1. Image showing the split between charging and non-charging zones.png
+
+│ ├── Figure 2. RDD Lineage Graph.png
+
+│ ├── Figure 3. DataFrame Physical Plan.png
+
+│ ├── Figure 4. Average Trip Speed per Hour.png
+
+│ ├── Figure 5. Average Trip Speed by Hour.png
+
+│ ├── Figure 6. Trips per Month by Hour.png
+
+│ ├── Job DAG Visusalisation.png
+
+│ ├── Shuffle Stages.png
+
+│ ├── Stage Details.png
+
+│ └── Table 1. Map-reduce Style Results Comparison.png
 
 └── report/
 
